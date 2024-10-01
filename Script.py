@@ -34,7 +34,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
 ›› ꜱᴛᴇᴘ 5 : ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ꜰʀᴏᴍ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴛʜᴇɴ, ꜱɪᴍᴘʟʏ ꜱᴇᴛ ʏᴏᴜʀ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴀᴘɪ ᴜꜱɪɴɢ ᴛʜᴇ /shortlink ᴄᴏᴍᴍᴀɴᴅ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink linkShortnerWebsite.in 00987654uijhvft78929d50f1cba1d5e6f967d1e96298ygufvh</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink linkShortnerWebsite.in 8038181984:AAGLy0RwmZrxbUjWf4usrJtv2cC6aIgAoQE</code>
 
 <b>›› ꜱᴛᴇᴘ 6 : ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
@@ -60,7 +60,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     FORMAT_SELECTION2 = "<b>⏯**File Name:** {}\n\n🧬**File Size:** {}\n**⩙ Upload Type:** {}"
     
-    SET_CUSTOM_USERNAME_PASSWORD = """"""
+    SET_CUSTOM_USERNAME_PASSWORD = "@Url_Uploder_legend_bot""""
 
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
 
